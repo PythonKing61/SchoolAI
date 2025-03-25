@@ -1,0 +1,5 @@
+Conversation Logs:
+[2025-03-25T17:19:42.389392] Username: Wayne, Name: User, Question: 'Hello', Answer: 'Hello, im your personal AI assistant '
+[2025-03-25T17:20:00.227840] Username: Wayne, Name: User, Question: 'Who created you', Answer: 'Wayne'
+[2025-03-25T17:20:12.677542] Username: Wayne, Name: User, Question: 'Who created you', Answer: 'Wayne'
+[2025-03-25T17:20:29.225002] Username: Wayne, Name: User, Question: 'what is 1 + 1', Answer: '2'
