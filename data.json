@@ -1,0 +1,108 @@
+{
+    "questions": [
+        {
+            "category": "General Knowledge",
+            "examples": [
+                {
+                    "question": "What is the capital of France?",
+                    "answer": "The capital of France is Paris."
+                },
+                {
+                    "question": "Who was the 16th president of the United States?",
+                    "answer": "The 16th president of the United States was Abraham Lincoln."
+                },
+                {
+                    "question": "How long does it take to travel to Mars?",
+                    "answer": "It typically takes about 6 to 9 months to travel to Mars, depending on the alignment of the planets and the spacecraft's speed."
+                }
+            ]
+        },
+        {
+            "category": "Weather",
+            "examples": [
+                {
+                    "question": "What\u00e2\u20ac\u2122s the difference between El Ni\u00c3\u00b1o and La Ni\u00c3\u00b1a?",
+                    "answer": "El Ni\u00c3\u00b1o refers to the warming of the central and eastern tropical Pacific Ocean, while La Ni\u00c3\u00b1a refers to the cooling of these same areas. Both affect global weather patterns differently."
+                },
+                {
+                    "question": "How do hurricanes form?",
+                    "answer": "Hurricanes form over warm ocean waters when warm, moist air rises and creates a low-pressure system. As the system gathers strength, it can develop into a hurricane with strong winds and heavy rain."
+                }
+            ]
+        },
+        {
+            "category": "Language",
+            "examples": [
+                {
+                    "question": "What does 'epistemology' mean?",
+                    "answer": "Epistemology is the branch of philosophy that studies the nature, origin, and limits of human knowledge."
+                },
+                {
+                    "question": "What is the difference between 'less' and 'fewer'?",
+                    "answer": "'Less' is used for uncountable nouns (e.g., 'less water'), while 'fewer' is used for countable nouns (e.g., 'fewer apples')."
+                }
+            ]
+        },
+        {
+            "category": "Technology",
+            "examples": [
+                {
+                    "question": "How does a blockchain work?",
+                    "answer": "A blockchain is a decentralized, distributed ledger that records transactions in a secure and immutable way. It uses cryptography to ensure data integrity."
+                },
+                {
+                    "question": "What is quantum computing?",
+                    "answer": "Quantum computing uses quantum bits (qubits) to perform calculations, leveraging principles of quantum mechanics such as superposition and entanglement for powerful processing."
+                }
+            ]
+        },
+        {
+            "category": "History",
+            "examples": [
+                {
+                    "question": "What is World War II?",
+                    "answer": "World War II was a global conflict that lasted from 1939 to 1945, involving many countries and resulting in significant geopolitical changes."
+                },
+                {
+                    "question": "Who was Albert Einstein?",
+                    "answer": "Albert Einstein was a theoretical physicist known for his theory of relativity and contributions to the understanding of energy and matter."
+                }
+            ]
+        },
+        {
+            "category": "Science",
+            "examples": [
+                {
+                    "question": "How does photosynthesis work?",
+                    "answer": "Photosynthesis is the process by which plants convert sunlight, carbon dioxide, and water into glucose and oxygen, providing energy for growth."
+                },
+                {
+                    "question": "What is relativity?",
+                    "answer": "Relativity is a theory by Albert Einstein that describes how space and time are interconnected and how they are affected by the presence of mass and energy."
+                }
+            ]
+        },
+        {
+            "category": "Entertainment",
+            "examples": [
+                {
+                    "question": "What is the plot of '1984' by George Orwell?",
+                    "answer": "'1984' is a dystopian novel about a totalitarian regime led by Big Brother, exploring themes of surveillance, propaganda, and individual freedom."
+                },
+                {
+                    "question": "Who directed 'The Godfather'?",
+                    "answer": "'The Godfather' was directed by Francis Ford Coppola."
+                }
+            ]
+        },
+        {
+            "category": "Math",
+            "examples": [
+                {
+                    "question": "What is 7 * 2?",
+                    "answer": "14"
+                }
+            ]
+        }
+    ]
+}
